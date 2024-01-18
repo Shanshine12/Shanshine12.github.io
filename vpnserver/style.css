@@ -23,9 +23,17 @@ p {
     line-height: 1.6;
 }
 
-.kelebihan, .kekurangan {
+.kelebihan, .kekurangan, .Contoh {
     width: 45%;
     float: left;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
 }
 
 footer {
@@ -37,5 +45,6 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
