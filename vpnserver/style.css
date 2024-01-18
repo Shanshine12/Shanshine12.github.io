@@ -24,8 +24,7 @@ p {
 }
 
 .kelebihan, .kekurangan, .Contoh {
-    width: 45%;
-    float: left;
+    width: 100%;
 }
 
 ul {
