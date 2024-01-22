@@ -24,7 +24,7 @@ p {
 }
 
 .kelebihan, .kekurangan, .Contoh {
-    width: 20%;
+    width: 100%;
 }
 
 ul {
@@ -43,13 +43,6 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-
-@media only screen and (max-width: 600px) {
-    .kelebihan,
-    .kekurangan,
-    .Contoh {
-        width: 100%; /* Atur lebar menjadi 100% pada layar berukuran kecil */
-    }
 }
 
 
