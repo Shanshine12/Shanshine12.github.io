@@ -1,1 +1,36 @@
+/* Global styles */
+body {
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, p {
+  margin-bottom: 20px;
+}
+
+/* VPN section styles */
+.vpn {
+  margin: 20px;
+}
+
+.vpn h1 {
+  margin-bottom: 0;
+}
+
+.vpn h1, .vpn h2, .vpn h3, .vpn h4, .vpn p {
+  margin-bottom: 10px;
+}
+
+.vpn h2 {
+  margin-bottom: 10px;
+}
+
+.vpn ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.vpn li {
+  margin-bottom: 10px;
+}
 
