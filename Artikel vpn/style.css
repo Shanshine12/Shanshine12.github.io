@@ -1,36 +1,39 @@
-/* Global styles */
 body {
-  font-family: sans-serif;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-h1, h2, h3, h4, p {
-  margin-bottom: 20px;
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
 }
 
-/* VPN section styles */
-.vpn {
-  margin: 20px;
+section {
+    margin: 20px;
 }
 
-.vpn h1 {
-  margin-bottom: 0;
+h2 {
+    color: #333;
 }
 
-.vpn h1, .vpn h2, .vpn h3, .vpn h4, .vpn p {
-  margin-bottom: 10px;
+p {
+    line-height: 1.6;
 }
 
-.vpn h2 {
-  margin-bottom: 10px;
+.kelebihan, .kekurangan, .Contoh {
+    width: 200%;
 }
 
-.vpn ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+ul {
+    padding: 0;
 }
 
-.vpn li {
-  margin-bottom: 10px;
+li {
+    list-style-type: none;
 }
+
+
 
